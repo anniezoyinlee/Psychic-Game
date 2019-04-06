@@ -1,0 +1,14 @@
+body {
+    background: black;
+    color: white;
+    font-family: fantasy;
+    font-size: 20pt;
+    text-align: center;
+    margin: 50px;
+}
+
+.article {
+    margin: 30px;
+    font-size: 16pt;
+}
+
