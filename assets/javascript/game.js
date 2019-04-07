@@ -49,7 +49,7 @@ document.onkeyup = function (event) {
             console.log("Wins: " + wins);
         }
 
-        else if (userGuess !== computerGuess) {  // !== -> Not equal to
+        else if (userGuess !== computerGuess) {  
             losses++;
             lettersGuessed.push(userGuess);
             chances--;
@@ -75,7 +75,6 @@ document.onkeyup = function (event) {
             "<p>Guesses Left: " + chances + "</p>";
 
         document.querySelector("#game").innerHTML = html;
-        // -> document.getElementById("#game").innerHTML = html;
 
     } else {
         console.log("Invalid input!")
