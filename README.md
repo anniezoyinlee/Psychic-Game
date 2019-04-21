@@ -1,4 +1,4 @@
-Harvard Extension School Coding Bootcamp Week 3 - Javascript Homework
+# Harvard Extension School Coding Bootcamp Week 3 - Javascript Homework
 
 In this game computer randomly picks a letter, user's goal is to guess which letter it is by typing alphabet from keyboard.
 
